@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+I am studying information technology at LAB University of Applied Sciences. 
+
 <!--
 **Eerika-Kuja/eerika-kuja** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
