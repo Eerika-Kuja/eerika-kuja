@@ -1,6 +1,8 @@
 ## Hi there 👋
 
+My name is Eerika Kujanpää.
 I am studying information technology at LAB University of Applied Sciences. 
+I have no former experience in programming before my studies started.
 
 <!--
 **Eerika-Kuja/eerika-kuja** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
